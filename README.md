@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Suvartha Ministries UK
 
 Official website for Suvartha Ministries UK - Spreading the Gospel since 1925.
@@ -71,3 +72,6 @@ npm run lint
 ## Contact
 
 For more information about Suvartha Ministries UK, please visit our website or contact us at contact@suvarthaministries.org.uk
+=======
+# Suvarthauk_Website
+>>>>>>> 3bc931aabe0f0058d006b7d831b78fdaa703b515

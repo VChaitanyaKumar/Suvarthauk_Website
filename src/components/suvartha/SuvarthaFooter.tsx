@@ -31,7 +31,9 @@ export default function SuvarthaFooter() {
             <div className="flex space-x-4">
               {/* Google */}
               <a
-                href="#"
+                href="https://suvarthaukwebsite.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-12 h-12 bg-white rounded-full flex items-center justify-center hover:bg-gray-100 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1 border border-gray-200"
               >
                 <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none">
@@ -56,7 +58,9 @@ export default function SuvarthaFooter() {
 
               {/* Facebook */}
               <a
-                href="#"
+                href="https://www.facebook.com/HopeOfGloryRevivalChurch"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center hover:bg-blue-500 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
               >
                 <svg
@@ -86,7 +90,9 @@ export default function SuvarthaFooter() {
 
               {/* Instagram */}
               <a
-                href="#"
+                href="https://www.instagram.com/hopeofgloryrevivalchurch/profilecard/?igsh=MWNmdWY0ZHNjeXg3cA%3D%3D"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-12 h-12 bg-gradient-to-br from-purple-600 to-pink-500 rounded-full flex items-center justify-center hover:from-purple-500 hover:to-pink-400 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
               >
                 <svg
